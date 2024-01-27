@@ -8,22 +8,18 @@ ce qui me permet de fournir des solutions complètes pour une large gamme de pro
 💻 Technologies et Outils
 
 Voici quelques-unes des technologies et des outils avec lesquels je travaille :
+
 Front-end
 
     HTML5
     CSS3
     JavaScript (ES6+)
-    React.js
-    Vue.js
-    Angular
+    Bootstrap/Tailwinds
+   
 
 Back-end
 
     Node.js
-    Express.js
-    Python
-    Django
-    Flask
     pHp
 
 Bases de données
@@ -34,18 +30,16 @@ Bases de données
 
 Autres Compétences
 
-    APIs RESTful
-    GraphQL
     Git
     Docker
-    AWS
     Agile/Scrum
+    Laravel
 
 🌟 Projets Clés
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
-    **(en cours)..
+    ReparService, Gamecommunity World(en cours)..
     
 
 Hi there, I'm [Abderrafie Bais]! 👋
@@ -62,17 +56,11 @@ Front-end
     HTML5
     CSS3
     JavaScript (ES6+)
-    React.js
-    Vue.js
-    Angular
+    Bootstrap/Tailwinds
 
 Back-end
 
     Node.js
-    Express.js
-    Python
-    Django
-    Flask
     pHp
 
 Databases
@@ -83,15 +71,13 @@ Databases
 
 Other Skills
 
-    RESTful APIs
-    GraphQL
     Git
     Docker
-    AWS
     Agile/Scrum
+    Laravel
 
 🌟 Key Projects
 
 Here are some of the notable projects I've worked on:
 
-    **(in works)..
+     ReparService, Gamecommunity World(en cours)..
